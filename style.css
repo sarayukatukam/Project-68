@@ -1,0 +1,20 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0; 
+    z-index: 99999;
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    align-self: center;
+}
+a{
+    color: blue;
+}
+#img1{
+    height: 150px;
+    width: 150px;
+    bottom:10px;
+    align-self: center;
+}
